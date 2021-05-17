@@ -1,0 +1,11 @@
+{
+    "prefix": ",",
+    "everyoneMention": false,
+    "hostedBy": true,
+    "secret": "rW8bJbwnjA6MdWpfntcbF9puzCqEdltV",
+    "id": "811265195186978828", 
+    "dashboardURL": "http://localhost:5040",
+    "semoji": "<:timer:>",
+    "femoji": "<:x:>",
+    "owners" : ["809007169210810398", "800331322089537538"]
+}
